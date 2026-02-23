@@ -30,7 +30,7 @@ This refers to **caching**. Most DNS servers you interact with (like your ISP's
 - **Retrieval:** The resolver must then go back through the chain—Root -> TLD -> Authoritative—to fetch the latest, up-to-date information. This is why changes to your site's IP address might take a few hours to show up for everyone; it's waiting for those old caches to expire.
 
 
-![[Domain-Reg.jpg]]
+![Domain Registration Process Flow](images/Domain-Reg.jpg)
 
 ### The Journey of how a DNS is resolved?
 
@@ -43,7 +43,7 @@ This refers to **caching**. Most DNS servers you interact with (like your ISP's
 
 Below diagram illustrates the flow:
 
-![[DNS 1.jpg]]
+![DNS Resolution Flow](images/DNS.jpg)
 
 Saving Data:
 
