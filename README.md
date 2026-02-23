@@ -1,3 +1,4 @@
+### How a DNS is resolved
 
 To understand what a Domain Name Server is and how it works, we need to understand the following:
 1. Domain
